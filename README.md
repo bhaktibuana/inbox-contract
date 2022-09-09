@@ -30,8 +30,8 @@ The deployment process is explained as follows:
 - at the project directory create new `.env` file.
 - the `.env` file contains two variables named MNEMONIC and ENDPOINT.
 - for MNEMONIC variable, assign with your mnemonic of your Metamask account.
-- for ENDPOINT variable, assign with Rinkeby network endpoint. To get the network endpoint you can register your account at ["infura.io"]("infura.io").
+- for ENDPOINT variable, assign with Rinkeby network endpoint. To get the network endpoint you can register your account at [infura.io](infura.io).
 - run `npm run deploy` or `yarn deploy`. And it will return the address that used for deployment and the address of the contract.
-- you can check your contract at ["https://rinkeby.etherscan.io"]("https://rinkeby.etherscan.io/").
+- you can check your contract at [https://rinkeby.etherscan.io](https://rinkeby.etherscan.io).
 
 I hope you guys like this project :grin:
